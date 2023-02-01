@@ -1,12 +1,12 @@
 {
-    "name": "asdh/laravel-flatpickr",
+    "name": "snowsoft/laravel-flatpickr",
     "description": "A laravel clone of the javascript flatpickr package",
     "keywords": [
         "asdh",
         "laravel",
         "laravel-flatpickr"
     ],
-    "homepage": "https://github.com/asdh/laravel-flatpickr",
+    "homepage": "https://github.com/snowsoft/laravel-flatpickr",
     "license": "MIT",
     "authors": [
         {
