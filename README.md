@@ -19,7 +19,7 @@ You can support me by subscribing to my [YouTube channel - Laratips](https://www
 
 If you want me to continue developing this package and want me to develop other similar packages, then you help me financially by sending few bucks to my [Wise](https://wise.com/invite/ath/ashishd233) account in Nepalese 🇳🇵 currency.
 
-My Wise email: ashish.dhamala2015@gmail.com
+ 
 
 If you decide to support me, the please send me your twitter handle in mail so that I can shout-out about you on twitter.
 
@@ -28,7 +28,7 @@ If you decide to support me, the please send me your twitter handle in mail so t
 You can install the package via composer:
 
 ```bash
-composer require asdh/laravel-flatpickr
+composer require snowsoft/laravel-flatpickr
 ```
 
 You can publish the config file with:
